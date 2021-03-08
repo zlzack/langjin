@@ -1,0 +1,5 @@
+print("你好！")
+#print(3%2)
+a = len(input("输入a:"))
+b = len(input("输入b:"))
+print(a+b)
