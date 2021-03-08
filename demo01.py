@@ -1,4 +1,4 @@
-print("你好！")
+print("你好！加油")
 print(3%2)
 a = len(input("输入a:"))
 b = len(input("输入b:"))
